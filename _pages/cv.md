@@ -9,51 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
+CV
+======
+![PDF version](/files/CV_public.pdf)
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D Applied Mathematics, University of Arizona, 2021 (expected)
+* M.S. Applied Mathematics, University of Arizona, 2018
+* M.S. Mathematics, Washington State University, 2016
+* B.S. Mathematics, University of Scranton, 2007
+
+Research Interests
+======
+Ocean Modeling, Earth System Modeling, Model Validation, Data Assimilation, Numerical Analysis
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-present: Research Assistant
+  * University of Arizona
+  * Supervisor: Joellen Russell 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2018: Teaching Assistant
+  * University of Arizona
   
+* 2016-2018: Teaching Assistant
+  * Washington State University
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MATLAB
+* Python
+* MITgcm
+* git
+* LaTeX
+* globus
+  
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
