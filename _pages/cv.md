@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-======
-![PDF version](/files/CV_public.pdf)
+[PDF version](swierczek-ocean.github.io/files/CV_public.pdf)
 
 
 Education
