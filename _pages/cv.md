@@ -47,6 +47,6 @@ Seagoing Experience
 ======
 * 2019: Assistant Deck Operations, R/V Sikuliaq, OOI Coastal Endurance Mooring Array Fall 2019 Deployment
 
-
+<img src="/images/deck.jpg">
   
 
