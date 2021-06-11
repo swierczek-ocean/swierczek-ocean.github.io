@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /Research/
+permalink: /research/
 title: "Research"
 author_profile: true
 ---
@@ -27,7 +27,7 @@ Investigating predictability of DIC and SST in the Argentine Basin through wind 
 The confluence of the powerful Malvinas and Brazil currents over the Argentine Basin give the region chaotic dynamics and severely limit potential predictability. To probe the forecast horizon for ocean surface quantities like temperature and carbon, we construct regional models of the Argentine Basin with biogeochemistry at 1/3° and 1/12° resolution and design a series of experiments. We add positive and negative wind stress anomalies over small and large areas during a short period in different model runs. We calculate the linear and nonlinear responses of the surface temperature and dissolved inorganic carbon in the various scenarios and determine the minimum magnitude of these responses. The 1/3° model maintains predictability for up to 45 days, while the 1/12° model has a shorter window of about two weeks.
 
 
-<img src="/images/SOCCOM.png">
+
 
 
 
