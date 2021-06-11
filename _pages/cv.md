@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version](https://swierczek-ocean.github.io/files/CV_public.pdf)
+[PDF version](/files/CV_public.pdf)
 
 
 Education
@@ -26,15 +26,12 @@ Ocean Modeling, Earth System Modeling, Model Validation, Data Assimilation, Nume
 
 Work experience
 ======
-* 2018-present: Research Assistant
-  * University of Arizona
+* 2018-present: Research Assistant, University of Arizona
   * Supervisor: Joellen Russell 
 
-* 2016-2018: Teaching Assistant
-  * University of Arizona
+* 2016-2018: Teaching Assistant, University of Arizona
   
-* 2016-2018: Teaching Assistant
-  * Washington State University
+* 2016-2018: Teaching Assistant, Washington State University
 
 Skills
 ======
