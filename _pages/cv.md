@@ -11,7 +11,6 @@ redirect_from:
 
 [PDF version](/files/CV_public.pdf)
 
-
 Education
 ======
 * Ph.D Applied Mathematics, University of Arizona, 2021 (expected)
@@ -23,6 +22,11 @@ Research Interests
 ======
 Ocean Modeling, Earth System Modeling, Model Validation, Data Assimilation, Numerical Analysis
 
+Publications
+======
+* Swierczek, S., Mazloff, M.R., & Russell, J.L. *Investigating predictability of DIC and SST in the Argentine Basin through wind stress perturbation experiments.* (in prep)
+
+* Swierczek, S., Mazloff, M.R., Morzfeld, M., & Russell, J.L. *The effect of resolution on vertical heat and carbon transports in a regional ocean circulation model of the Argentine Basin.* (submitted with revisions)
 
 Work experience
 ======
@@ -33,13 +37,16 @@ Work experience
   
 * 2016-2018: Teaching Assistant, Washington State University
 
-Skills
+Workshops
 ======
-* MATLAB
-* Python
-* MITgcm
-* git
-* LaTeX
-* globus
+* 2019: ECCO Summer Workshop, University of Washington Friday Harbor Laboratories
+
+* 2016: Math to Industry Boot Camp, Institute for Math and its Applications, University of Minnesota
+
+Seagoing Experience
+======
+* 2019: Assistant Deck Operations, R/V Sikuliaq, OOI Coastal Endurance Mooring Array Fall 2019 Deployment
+
+
   
 
