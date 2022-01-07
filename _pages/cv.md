@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D Applied Mathematics, University of Arizona, 2021 (expected)
+* Ph.D Applied Mathematics, University of Arizona, 2021
 * M.S. Applied Mathematics, University of Arizona, 2018
 * M.S. Mathematics, Washington State University, 2016
 * B.S. Mathematics, University of Scranton, 2007
@@ -24,7 +24,7 @@ Ocean Modeling, Earth System Modeling, Model Validation, Data Assimilation, Nume
 
 Publications
 ======
-* Swierczek, S., Mazloff, M.R., & Russell, J.L. *Investigating predictability of DIC and SST in the Argentine Basin through wind stress perturbation experiments.* (in prep)
+* Swierczek, S., Mazloff, M.R., & Russell, J.L. (2021). Investigating predictability of DIC and SST in the Argentine Basin through wind stress perturbation experiments. *Geophysical Research Letters*, 48, e2021GL095504. https://doi.org/10.1029/2021GL095504
 
 * Swierczek, S., Mazloff, M.R., Morzfeld, M., & Russell, J.L. (2021). The effect of resolution
 on vertical heat and carbon transports in a regional ocean circulation model of the
@@ -33,7 +33,9 @@ doi.org/10.1029/2021JC017235
 
 Work experience
 ======
-* 2018-present: Research Assistant, University of Arizona
+* 2021-present: ASEE Postdoctoral Fellow, Naval Research Laboratory
+
+* 2018-2021: Research Assistant, University of Arizona
   * Supervisor: Joellen Russell 
 
 * 2016-2018: Teaching Assistant, University of Arizona
