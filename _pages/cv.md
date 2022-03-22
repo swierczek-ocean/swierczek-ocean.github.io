@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF version](/files/CV_public.pdf)
-
 Education
 ======
 * Ph.D Applied Mathematics, University of Arizona, 2021
@@ -33,10 +31,11 @@ doi.org/10.1029/2021JC017235
 
 Work experience
 ======
-* 2021-present: ASEE Postdoctoral Fellow, Naval Research Laboratory
+* 2022-present: Associate Model Risk Analyst, M&T Bank
+
+* 2021-2022: ASEE Postdoctoral Fellow, Naval Research Laboratory
 
 * 2018-2021: Research Assistant, University of Arizona
-  * Supervisor: Joellen Russell 
 
 * 2016-2018: Teaching Assistant, University of Arizona
   
